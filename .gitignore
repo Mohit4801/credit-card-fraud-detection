@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pt
+*.pth
+*.h5
+*.npz
+*.npy
+*.csv
+*.joblib
+.env
+*.log
+.DS_Store
+Thumbs.db

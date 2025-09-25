@@ -1,0 +1,7 @@
+credit-card-fraud-detection/
+│── main.py              # Streamlit app entry point
+│── requirements.txt     # Dependencies
+│── src/
+│    └── model.py        # Model architecture & logic
+│── .gitignore
+│── README.md
